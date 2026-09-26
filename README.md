@@ -4,7 +4,6 @@
 
 已在 **微信、QQ、X（Twitter 私信）** 三个平台真机跑通，飞书采集已接入。一套内核，一个 App 一个几十行的适配器。
 
-**联系 / 反馈 / 合作：请公众号私信**（二维码见文末）。 官网：[chatjevs.com](https://chatjevs.com)
 
 <p align="center">
   <img src="docs/images/overlay.png" width="300" alt="悬浮窗：聊天上方的 Jev 分析面板" />
